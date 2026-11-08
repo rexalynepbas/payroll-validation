@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Payroll Validation System</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
